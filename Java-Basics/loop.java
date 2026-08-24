@@ -25,5 +25,6 @@ public class loop {
             System.out.println(j);
             j++;
         } while (j <= 5);
+
     }
 }
